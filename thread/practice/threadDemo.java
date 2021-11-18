@@ -9,7 +9,7 @@ public class threadDemo {
         } while (true);
     }
 }
-class Mythread extends Thread {
+class Mythread extends Thread { //
     public void run(){
         for (int count = 1, row = 1; row < 20; row++, count++) {
             for (int i = 0; i < count; i++)
