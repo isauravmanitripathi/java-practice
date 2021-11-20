@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d162b635-13e4-44f2-bffb-72539d02be79" name="Changes" comment="created thread">
+    <list default="true" id="d162b635-13e4-44f2-bffb-72539d02be79" name="Changes" comment="push 2">
+      <change afterPath="$PROJECT_DIR$/thread/practice/ThreadName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thread/practice/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread/practice/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +39,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.threadDemo">
+  <component name="RunManager" selected="Application.ThreadName">
     <configuration name="ConcurrenyPorblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ConcurrenyPorblem" />
       <module name="java-practice" />
@@ -53,6 +54,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ThreadName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreadName" />
+      <module name="java-practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="threadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="threadDemo" />
       <module name="java-practice" />
@@ -62,6 +70,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThreadName" />
         <item itemvalue="Application.threadDemo" />
         <item itemvalue="Application.ConcurrenyPorblem" />
         <item itemvalue="Application.Main" />
@@ -76,7 +85,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1637251366192</updated>
-      <workItem from="1637251380108" duration="2698000" />
+      <workItem from="1637251380108" duration="3044000" />
+      <workItem from="1637426122261" duration="1365000" />
     </task>
     <task id="LOCAL-00001" summary="created thread">
       <created>1637253535147</created>
@@ -99,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637253650610</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="push 2">
+      <created>1637256909901</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1637256909901</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,9 +132,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="created thread" />
-    <option name="LAST_COMMIT_MESSAGE" value="created thread" />
+    <MESSAGE value="push 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="push 2" />
   </component>
 </project>
