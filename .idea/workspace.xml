@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d162b635-13e4-44f2-bffb-72539d02be79" name="Changes" comment="push 4">
-      <change afterPath="$PROJECT_DIR$/thread/practice/SleepNotSleep2.java" afterDir="false" />
+    <list default="true" id="d162b635-13e4-44f2-bffb-72539d02be79" name="Changes" comment="pushing thread code">
+      <change afterPath="$PROJECT_DIR$/thread/practice/Census.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread/practice/DaemonThreadDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread/practice/PiValue1.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread/practice/PiValue1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,9 +40,23 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.SleepNotSleep2">
-    <configuration name="ConcurrenyPorblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConcurrenyPorblem" />
+  <component name="RunManager" selected="Application.DaemonThreadDemo">
+    <configuration name="Census" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Census" />
+      <module name="java-practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DaemonThreadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DaemonThreadDemo" />
+      <module name="java-practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PiValue1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PiValue1" />
       <module name="java-practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -60,27 +76,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreadName" />
-      <module name="java-practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="threadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="threadDemo" />
-      <module name="java-practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DaemonThreadDemo" />
+        <item itemvalue="Application.Census" />
+        <item itemvalue="Application.PiValue1" />
         <item itemvalue="Application.SleepNotSleep2" />
         <item itemvalue="Application.SleepNotSleep" />
-        <item itemvalue="Application.ThreadName" />
-        <item itemvalue="Application.threadDemo" />
-        <item itemvalue="Application.ConcurrenyPorblem" />
       </list>
     </recent_temporary>
   </component>
@@ -93,7 +95,7 @@
       <option name="presentableId" value="Default" />
       <updated>1637251366192</updated>
       <workItem from="1637251380108" duration="3044000" />
-      <workItem from="1637426122261" duration="2640000" />
+      <workItem from="1637426122261" duration="4220000" />
     </task>
     <task id="LOCAL-00001" summary="created thread">
       <created>1637253535147</created>
@@ -137,7 +139,21 @@
       <option name="project" value="LOCAL" />
       <updated>1637431283787</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="push 5">
+      <created>1637432104186</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1637432104186</updated>
+    </task>
+    <task id="LOCAL-00008" summary="pushing thread code">
+      <created>1637432219714</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1637432219714</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,6 +176,8 @@
     <MESSAGE value="push 2" />
     <MESSAGE value="push 3" />
     <MESSAGE value="push 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="push 4" />
+    <MESSAGE value="push 5" />
+    <MESSAGE value="pushing thread code" />
+    <option name="LAST_COMMIT_MESSAGE" value="pushing thread code" />
   </component>
 </project>
