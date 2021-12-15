@@ -1,14 +1,14 @@
 import java.io.Serializable;
 import javax.xml.*;
 
-public class user implements Serializable{
+public class User implements Serializable{
     private static final long serialVersionUID = 1L;
     private int id;
     private String name;
     private String sector;
-    public user(){};
+    public User(){};
 
-    public user (int id, String name, String sector) {
+    public User(int id, String name, String sector) {
         this.id = id;
         this.name = name;
         this.sector = sector;
