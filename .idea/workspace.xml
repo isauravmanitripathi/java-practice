@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d162b635-13e4-44f2-bffb-72539d02be79" name="Changes" comment="pushed new page">
+    <list default="true" id="d162b635-13e4-44f2-bffb-72539d02be79" name="Changes" comment="pushing code">
       <change beforePath="$PROJECT_DIR$/java-restful-web-services/usermanagement/src/user.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-restful-web-services/usermanagement/src/user.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +94,7 @@
       <workItem from="1637251380108" duration="3044000" />
       <workItem from="1637426122261" duration="4621000" />
       <workItem from="1637533035268" duration="236000" />
-      <workItem from="1639604446751" duration="2554000" />
+      <workItem from="1639604446751" duration="2889000" />
     </task>
     <task id="LOCAL-00001" summary="created thread">
       <created>1637253535147</created>
@@ -201,7 +201,28 @@
       <option name="project" value="LOCAL" />
       <updated>1639606801712</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="pushing code">
+      <created>1639607030671</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1639607030671</updated>
+    </task>
+    <task id="LOCAL-00017" summary="pushing code">
+      <created>1639607125808</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1639607125808</updated>
+    </task>
+    <task id="LOCAL-00018" summary="pushing code">
+      <created>1639607238712</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1639607238712</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -229,6 +250,7 @@
     <MESSAGE value="pushing computer vision project" />
     <MESSAGE value="created a restful directory" />
     <MESSAGE value="pushed new page" />
-    <option name="LAST_COMMIT_MESSAGE" value="pushed new page" />
+    <MESSAGE value="pushing code" />
+    <option name="LAST_COMMIT_MESSAGE" value="pushing code" />
   </component>
 </project>

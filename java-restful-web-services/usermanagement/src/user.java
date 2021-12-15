@@ -34,6 +34,5 @@ public class user implements Serializable{
 
     public void setSector(String sector) {
         this.sector = sector;
-
     }
 }
