@@ -22,6 +22,18 @@ public class user implements Serializable{
     }
 
     public String getName() {
+        return name;
+    }
+
+    public void setName(String name){
+        this.name = name;
+    }
+    public String getSector(){
+        return sector;
+    }
+
+    public void setSector(String sector) {
+        this.sector = sector;
 
     }
 }
