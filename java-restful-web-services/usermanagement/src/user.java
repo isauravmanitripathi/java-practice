@@ -7,4 +7,21 @@ public class user implements Serializable{
     private String name;
     private String sector;
     public user(){};
+
+    public user (int id, String name, String sector) {
+        this.id = id;
+        this.name = name;
+        this.sector = sector;
+    }
+    public int getId(){
+        return id;
+    }
+
+    public void setID(int id) {
+        this.id = id;
+    }
+
+    public String getName() {
+
+    }
 }
